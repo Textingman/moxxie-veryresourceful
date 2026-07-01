@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Very Resourceful - AI-Powered Resource Center for Smarter Decisions",
-  description: "Very Resourceful is your personal AI resource center. Get instant, unbiased answers and expert guidance — no salespeople, no pressure.",
+  title: "Very Resourceful - Family Resource Consulting for Moments That Matter",
+  description: "Very Resourceful helps families find the right resources when they need them most. Get trusted, unbiased guidance — no pressure, just support.",
 };
 
 export default function RootLayout({

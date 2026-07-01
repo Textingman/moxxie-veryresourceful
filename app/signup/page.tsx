@@ -34,10 +34,10 @@ export default function SignupPage() {
       <section className="py-12" style={{ backgroundColor: '#F5F7FA' }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl font-extrabold mb-4" style={{ color: '#1F2937' }}>
-            Access Your AI Resource Center — Free
+            Find the Right Resources for Your Family — Free
           </h1>
           <p className="text-xl max-w-2xl mx-auto" style={{ color: '#6B7280' }}>
-            Get personalized resources and unbiased guidance — no sales calls, no pressure, just honest answers.
+            Get compassionate, unbiased guidance on family resources — no sales calls, no pressure, just honest support.
           </p>
         </div>
       </section>
@@ -104,7 +104,7 @@ export default function SignupPage() {
               </div>
 
               <button type="submit" disabled={isSubmitting} className="w-full py-4 text-white text-lg font-semibold rounded-lg transition-opacity hover:opacity-90" style={{ backgroundColor: isSubmitting ? '#9CA3AF' : '#1D4ED8' }}>
-                {isSubmitting ? 'Submitting...' : 'Explore Resources'}
+                {isSubmitting ? 'Submitting...' : 'Get Family Support'}
               </button>
             </form>
           )}

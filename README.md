@@ -1,5 +1,5 @@
-# Resource Hub
+# Very Resourceful
 
-AI-powered microsite for Resource Hub.
+AI-powered microsite for Very Resourceful.
 
-Live at: https://www.resourcehubai.com
+Live at: https://www.veryresourceful.com

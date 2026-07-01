@@ -48,7 +48,7 @@ export default function PrivacyPage() {
           <p className="mb-6" style={{ color: '#6B7280' }}>
             If you have questions about this Privacy Policy, please contact us at:<br />
             Very Resourceful<br />
-            8 The Green, Ste A, Dover, DE 19901<br />
+            4 Peddlers Row #1068, Newark, DE 19702<br />
             Email: <a href="mailto:support@veryresourceful.com" style={{ color: '#1D4ED8' }}>support@veryresourceful.com</a>
           </p>
         </div>

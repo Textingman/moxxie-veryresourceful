@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Resource Hub - AI-Powered Resource Center for Smarter Decisions",
-  description: "Resource Hub is your personal AI resource center. Get instant, unbiased answers and expert guidance — no salespeople, no pressure.",
+  title: "Very Resourceful - AI-Powered Resource Center for Smarter Decisions",
+  description: "Very Resourceful is your personal AI resource center. Get instant, unbiased answers and expert guidance — no salespeople, no pressure.",
 };
 
 export default function RootLayout({

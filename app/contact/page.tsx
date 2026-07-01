@@ -79,12 +79,12 @@ export default function ContactPage() {
               <div className="space-y-4">
                 <div>
                   <h3 className="text-sm font-semibold uppercase tracking-wide mb-1" style={{ color: '#9CA3AF' }}>Email</h3>
-                  <a href="mailto:support@resourcehubai.com" className="text-base font-medium hover:underline" style={{ color: '#1D4ED8' }}>support@resourcehubai.com</a>
+                  <a href="mailto:support@veryresourceful.com" className="text-base font-medium hover:underline" style={{ color: '#1D4ED8' }}>support@veryresourceful.com</a>
                   <p className="text-sm mt-1" style={{ color: '#6B7280' }}>Response within 1–2 business days</p>
                 </div>
                 <div>
                   <h3 className="text-sm font-semibold uppercase tracking-wide mb-1" style={{ color: '#9CA3AF' }}>Mailing Address</h3>
-                  <p style={{ color: '#6B7280' }}>Resource Hub<br />8 The Green, Ste A<br />Dover, DE 19901</p>
+                  <p style={{ color: '#6B7280' }}>Very Resourceful<br />8 The Green, Ste A<br />Dover, DE 19901</p>
                 </div>
                 <div>
                   <h3 className="text-sm font-semibold uppercase tracking-wide mb-1" style={{ color: '#9CA3AF' }}>SMS Support</h3>

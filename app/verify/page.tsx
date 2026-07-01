@@ -72,7 +72,7 @@ function VerifyPageContent() {
     <div className="min-h-screen bg-gray-50 flex items-center justify-center px-4">
       <div className="max-w-sm w-full bg-white rounded-2xl shadow-md p-8">
         <div className="flex justify-center mb-6">
-          <span className="text-2xl font-bold" style={{ color: '#1D4ED8' }}>Resource Hub</span>
+          <span className="text-2xl font-bold" style={{ color: '#1D4ED8' }}>Very Resourceful</span>
         </div>
         <div className="flex justify-center mb-5">
           <div className="w-16 h-16 bg-gray-100 rounded-full flex items-center justify-center">
@@ -105,7 +105,7 @@ function VerifyPageContent() {
             </span>
           ) : 'Submit'}
         </button>
-        <p className="text-xs text-gray-400 text-center mt-6">Secured by Resource Hub</p>
+        <p className="text-xs text-gray-400 text-center mt-6">Secured by Very Resourceful</p>
       </div>
     </div>
   );

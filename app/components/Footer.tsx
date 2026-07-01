@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-xl font-bold mb-4">Resource Hub</h3>
+            <h3 className="text-xl font-bold mb-4">Very Resourceful</h3>
             <p style={{ color: '#BFDBFE' }}>
               Your AI-powered resource center for smarter decisions.
             </p>
@@ -45,13 +45,13 @@ export default function Footer() {
           </div>
           <div>
             <h4 className="font-semibold mb-4">Contact</h4>
-            <p style={{ color: '#BFDBFE' }}>support@resourcehubai.com</p>
+            <p style={{ color: '#BFDBFE' }}>support@veryresourceful.com</p>
             <p className="mt-2" style={{ color: '#BFDBFE' }}>8 The Green, Ste A, Dover, DE 19901</p>
             <p className="mt-2" style={{ color: '#BFDBFE' }}></p>
           </div>
         </div>
         <div className="mt-8 pt-8 text-center" style={{ borderTop: '1px solid #1D4ED8', color: '#BFDBFE' }}>
-          <p>&copy; 2026 Resource Hub. All rights reserved.</p>
+          <p>&copy; 2026 Very Resourceful. All rights reserved.</p>
         </div>
       </div>
     </footer>
